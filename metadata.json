@@ -1,0 +1,5 @@
+{
+  "name": "Ordem Paranormal - Visão do Jogador",
+  "description": "MVP da interface mobile para jogadores do sistema Ordem Paranormal, focado em visualização de perícias, status e atributos.",
+  "requestFramePermissions": []
+}
